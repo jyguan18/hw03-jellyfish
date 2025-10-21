@@ -1,4 +1,4 @@
-# Procedural Jellyfish 🪼
+# Procedural Jellyfish
 
 <p align="center">
   <img src="img/jelly.gif" width="400" alt="Animated Jellyfish Preview">
@@ -72,6 +72,6 @@ All components were combined and animated together using procedural controls for
 
 ---
 
-## 💭 Reflection
+## Reflection
 
 This project was an exciting deep dive into procedural workflows in Houdini. This was my second time using Houdini, so it was definitely a lot to learn, but overall it was a good process. Building each part from scratch and learning how to make them interact dynamically gave me a much stronger understanding of geometry networks, simulation setups, and procedural animation techniques.
